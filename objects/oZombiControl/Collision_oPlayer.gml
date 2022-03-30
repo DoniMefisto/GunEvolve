@@ -1,0 +1,1 @@
+other.player_hp -= zombi_damage;
